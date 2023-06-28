@@ -672,10 +672,10 @@ ol {
 
 .league{
   margin-left: 50px;
-  background-color: red;
-  width: 170px;
+  
+  width: 180px;
   padding: 5px 0 5px 5px;
-  color: white;
+  color: black;
 }
 
 /*css for seo section*/
